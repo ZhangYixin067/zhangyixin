@@ -1,1 +1,2 @@
-print("hello world")
+a=100000000
+print(f"{a:,}")
